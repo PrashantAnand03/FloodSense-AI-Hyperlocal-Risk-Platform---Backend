@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.*
+*.log
+debug.log
+scratch/
+alerts_email_log.txt
